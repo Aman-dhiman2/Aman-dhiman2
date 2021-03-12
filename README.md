@@ -39,12 +39,12 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently working as a freelancer.
-- 🌱 I’m currently learning Unit-Testing and TypeScript.
+- 🌱 I’m currently learning Data Science.
 <!--- 🤔 I’m looking for help for my future MERN projects.-->
-- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
+- 💬 Ask me about anything related to Data Science,Programming.(After googling it 😜😌)
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
-- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Playing games.
-- 📫 How to reach me: aman.atg001@gmail.com
+- 🎿 Hobbies other than coding : Reading blogs or about Fashion , Playing Chess , Playing games.
+- 📫 How to reach me: dhiman.1999.aman@gmail.com
 - 📝 [Resume](https://drive.google.com/drive/folders/1VxDtIflu5nThxTtm8COG_eh_1FkjF3Jj)
 
 ### 🛠️ Languages and Tools:
@@ -74,7 +74,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
 
-
+<!--
 ### 👣 Next Steps
 
 _Since you don't want to leave my profile just yet! Here are some things you can do :_
@@ -91,3 +91,4 @@ if you are on a similar path as mine.
 Credit: [aman-atg](https://github.com/aman-atg)
 
 Last Edited on: 19/11/2020
+-->
