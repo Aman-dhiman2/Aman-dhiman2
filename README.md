@@ -84,11 +84,8 @@ or [![Gmail Badge](https://img.shields.io/badge/-aman.atg001@gmail.com-c14438?st
 
 <!--❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/aman-atg?label=Follow&style=social)](https://github.com/aman-atg/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@aman_atg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
 if you are on a similar path as mine.
--->
-
 ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
 ----
 Credit: [aman-atg](https://github.com/aman-atg)
-
 Last Edited on: 19/11/2020
 -->
