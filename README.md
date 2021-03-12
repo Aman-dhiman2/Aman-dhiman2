@@ -34,7 +34,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 </p>
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
   
 ### ✨ Quick Facts
 
